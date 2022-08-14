@@ -6,7 +6,15 @@
 **ARRAYS METHODS:**
 
 **ADDING**: [.push()](#push) | [.unshift()](#unshift) | [.splice()](#splice) | 
-**REORGANIZING**: [.copyWithin()](#copyWithin) | [.slice()](#slice) | [.splice()](#splice) | **COMBINING**: [.concat()](#concatArrayMethod) | [...](#dots) | **REMOVING**: [.pop()](#pop) | [.shift()](#shift) | [.splice()](#spliceRemove) | **FILTERING/SEARCHING**: [.filter()](#push) | [.find()](#find) | [.findIndex()](#findIndex) | [.indexOf()](#indexOfFind) | [.lastIndexOf()](#lastIndexOfFind) | **SORTING**:  [.sort()](#sort) | **LOOP STRUCTURES**: [.map()](#sort) | [.flatMap()](#flatMap) | [.forEach()](#forEach) | [.reduce()](#reduce) | **BOOLEANS**: [.every()](#every) | [.some()](#some) | [.includes()](#includesBooleans) | **CREATING**: [Array.of()](#arrayof) | [Array.from()](#arrayfrom) | [.fill()](#fill) | **MORPHING**: [.entries()](#entries) | [.values()](#values) | [.keys()](#keys) | [.join()](#join) | [.toString()](#toString2) | [.toLocalString()](#toLocalString2) | **INFORMATION**: [.at() - ⚠ Experimental technology!](#at) | [.length()](#length) | [Array.isArray()](#arrayarray) | **MISC**: [.flat()](#flat) | [.reverse()](#reverse2) |
+**REORGANIZING**: [.copyWithin()](#copyWithin) | [.slice()](#slice) | [.splice()](#splice) | 
+**COMBINING**: [.concat()](#concatArrayMethod) | [...](#dots) | **REMOVING**: [.pop()](#pop) | [.shift()](#shift) | [.splice()](#spliceRemove) | **FILTERING/SEARCHING**: [.filter()](#push) | [.find()](#find) | [.findIndex()](#findIndex) | [.indexOf()](#indexOfFind) | [.lastIndexOf()](#lastIndexOfFind) | 
+**SORTING**:  [.sort()](#sort) | 
+**LOOP STRUCTURES**: [.map()](#sort) | [.flatMap()](#flatMap) | [.forEach()](#forEach) | [.reduce()](#reduce) | 
+**BOOLEANS**: [.every()](#every) | [.some()](#some) | [.includes()](#includesBooleans) | 
+**CREATING**: [Array.of()](#arrayof) | [Array.from()](#arrayfrom) | [.fill()](#fill) | 
+**MORPHING**: [.entries()](#entries) | [.values()](#values) | [.keys()](#keys) | [.join()](#join) | [.toString()](#toString2) | [.toLocalString()](#toLocalString2) | 
+**INFORMATION**: [.at() - ⚠ Experimental technology!](#at) | [.length()](#length) | [Array.isArray()](#arrayarray) | 
+**MISC**: [.flat()](#flat) | [.reverse()](#reverse2) |
 
 **OPERATORS:**
 [Basic operators](#basicoperators) | [Comparison operators](#comparisonoperators) | [Logical operators](#logicaloperators) | [Bitwise operators](#bitwise) | [Arithmetic](#arithmetic) |
